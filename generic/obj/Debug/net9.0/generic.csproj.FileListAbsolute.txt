@@ -1,0 +1,14 @@
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\bin\Debug\net9.0\generic.exe
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\bin\Debug\net9.0\generic.deps.json
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\bin\Debug\net9.0\generic.runtimeconfig.json
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\bin\Debug\net9.0\generic.dll
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\bin\Debug\net9.0\generic.pdb
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\obj\Debug\net9.0\generic.GeneratedMSBuildEditorConfig.editorconfig
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\obj\Debug\net9.0\generic.AssemblyInfoInputs.cache
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\obj\Debug\net9.0\generic.AssemblyInfo.cs
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\obj\Debug\net9.0\generic.csproj.CoreCompileInputs.cache
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\obj\Debug\net9.0\generic.dll
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\obj\Debug\net9.0\refint\generic.dll
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\obj\Debug\net9.0\generic.pdb
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\obj\Debug\net9.0\generic.genruntimeconfig.cache
+d:\Área de Trabalho\CursoUdemyC#\Generic\generic\obj\Debug\net9.0\ref\generic.dll
